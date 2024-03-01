@@ -24,9 +24,11 @@ A visualization of BankOpt- Targeted Marketing Data, provides an overview that h
 
 # Objective
 * What is the problem?
+  
 How can a bank increase the success rate of its term deposit subscription through targeted marketing strategies based on the profiles of its clients?
 
 * Why is it important to solve it?
+  
 Subscriptions to term deposits represent a significant revenue stream for banks. By understanding the profiles of clients who are more likely to subscribe, banks can tailor their marketing strategies, reduce costs, and increase their profitability.
 
 # Task
