@@ -54,4 +54,4 @@ Subscriptions to term deposits represent a significant revenue stream for banks.
 **Data Visualization:** Completed all tasks by different visualization.
 
 # Dashboard
-![BankOpt Dashboard]("https://github.com/divyanshi14/BankOpt_Targeted_Marketing_Data_Analysis/blob/868c71bfbbb33a7f77daf69d82378764540b4432/BankOpt%20Dashboard.png")
+![BankOpt Dashboard](https://github.com/divyanshi14/BankOpt_Targeted_Marketing_Data_Analysis/blob/868c71bfbbb33a7f77daf69d82378764540b4432/BankOpt%20Dashboard.png)
