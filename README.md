@@ -58,6 +58,9 @@ Subscriptions to term deposits represent a significant revenue stream for banks.
 # Dashboard
 ![BankOpt Dashboard](https://github.com/divyanshi14/BankOpt_Targeted_Marketing_Data_Analysis/blob/868c71bfbbb33a7f77daf69d82378764540b4432/BankOpt%20Dashboard.png)
 
+https://github.com/divyanshi14/BankOpt_Targeted_Marketing_Data_Analysis/assets/73298718/45252049-da28-46f1-8d02-99428f4f64b1
+
+
 
 # Conclusion 
 * Maximum number of clients are within age range 30-40.
